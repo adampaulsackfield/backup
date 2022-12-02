@@ -1,0 +1,47 @@
+{
+	"git.ignoreMissingGitWarning": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"editor.formatOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	"files.autoSave": "onFocusChange",
+	"explorer.confirmDelete": false,
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"explorer.confirmDragAndDrop": false,
+	"editor.tabSize": 2,
+	"editor.minimap.enabled": false,
+	"diffEditor.wordWrap": "on",
+	"emmet.syntaxProfiles": {
+		"javascript": "jsx"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
+	"prettier.useTabs": true,
+	"terminal.explorerKind": "external",
+	"workbench.iconTheme": "vscode-icons",
+	"todo-tree.filtering.includeHiddenFiles": true,
+	"workbench.startupEditor": "none",
+	"workbench.colorTheme": "Outrun Night Meets Synthwave",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"editor.wordWrap": "on",
+	"editor.formatOnPaste": true,
+	"workbench.editor.showTabs": true,
+	"vsicons.dontShowNewVersionMessage": true,
+	"editor.inlineSuggest.enabled": true,
+	"window.newWindowDimensions": "inherit",
+	"screencastMode.onlyKeyboardShortcuts": true,
+	"cSpell.userWords": ["BODMAS", "initalState", "Sackfield", "subber"],
+	"editor.lineNumbers": "relative",
+	"explorer.compactFolders": false,
+	"vscode_custom_css.imports": [
+		"file:///Users/adamsackfield/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
+	]
+}
