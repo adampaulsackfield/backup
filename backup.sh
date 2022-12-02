@@ -14,7 +14,7 @@ fi
 # VSCode
 # ====================
 # Copy files
-cp  $HOME/Library/Application\ Support/Code/User/{keybindings.json,settings.json} .
+cp  $HOME/Library/Application\ Support/Code/User/{keybindings.json,settings.json} $HOME/backup/vscode/
 
 # Copy snippets
 cp -r $HOME/Library/Application\ Support/Code/User/snippets .
