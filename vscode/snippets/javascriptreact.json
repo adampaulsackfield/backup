@@ -40,6 +40,8 @@
 	"React Arrow Function Const Export": {
 		"prefix": "rafce",
 		"body": [
+			"import './$TM_FILENAME_BASE'.scss",
+			"",
 			"const $TM_FILENAME_BASE = () => {",
 			"",
 			"  return <div>$TM_FILENAME_BASE</div>;",
