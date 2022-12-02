@@ -33,6 +33,22 @@
 		"prefix": "afar",
 		"body": ["($1) => {", "return $0", "}"],
 		"description": "Epands "
-	}
+	},
 	// ! ARROW FUNCTIONS END
+
+	// ! REACT START
+	"React Arrow Function Const Export": {
+		"prefix": "rafce",
+		"body": [
+			"const $TM_FILENAME_BASE = () => {",
+			"",
+			"  return <div>$TM_FILENAME_BASE</div>;",
+			"",
+			"};",
+			"",
+			"export default $TM_FILENAME_BASE"
+		],
+		"description": "Builds a react functional arrow component, named the same as the file"
+	}
+	// ! REACT END
 }
