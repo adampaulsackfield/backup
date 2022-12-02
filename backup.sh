@@ -20,7 +20,7 @@ cp  $HOME/Library/Application\ Support/Code/User/{keybindings.json,settings.json
 cp -r $HOME/Library/Application\ Support/Code/User/snippets .
 
 # Create list of installed extensions
-code --list-extensions --show-versions >> $HOME/backup/vscode/extensions.txt
+# code --list-extensions --show-versions > $HOME/backup/vscode/extensions.txt
 
 # Dot files
 # ====================
