@@ -25,7 +25,7 @@ cp -r $HOME/Library/Application\ Support/Code/User/snippets .
 # Dot files
 # ====================
 # ohmyzsh
-cp $HOME/{.zshrc} .
+cp $HOME/.zshrc .
 
 # Brew packages
 # ====================
@@ -38,7 +38,7 @@ ls -la /Applications/ > $HOME/backup/mac/applications.txt
 # Git
 # ====================
 # Git config
-cp $HOME/{.gitconfig} .
+cp $HOME/.gitconfig .
 
 # Status
 gs="$(git status | grep -i "modified")"
