@@ -17,7 +17,7 @@ fi
 cp  $HOME/Library/Application\ Support/Code/User/{keybindings.json,settings.json} $HOME/backup/vscode/
 
 # Copy snippets
-cp -r $HOME/Library/Application\ Support/Code/User/snippets .
+cp -r $HOME/Library/Application\ Support/Code/User/snippets $HOME/backup/vscode/
 
 # Create list of installed extensions
 # code --list-extensions --show-versions > $HOME/backup/vscode/extensions.txt
