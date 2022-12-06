@@ -109,6 +109,7 @@ alias meow="cat"
 alias zshconfig="code ~/.zshrc"
 alias ohmyzsh="code ~/.oh-my-zsh"
 alias dev="cd ~/Development"
+alias sb="cd ~/Development/sandbox"
 
 alias mon="brew services start mongodb-community@5.0"
 alias moff="brew services stop mongodb-community@5.0"

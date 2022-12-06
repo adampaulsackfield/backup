@@ -1,7 +1,7 @@
 total 16
-drwxrwxr-x  51 root           admin  1632 Dec  1 01:06 .
+drwxrwxr-x  51 root           admin  1632 Dec  6 09:01 .
 drwxr-xr-x  20 root           wheel   640 Oct 18 13:36 ..
--rw-r--r--@  1 adamsackfield  admin  6148 Dec  4 11:42 .DS_Store
+-rw-r--r--@  1 adamsackfield  admin  6148 Dec  6 09:48 .DS_Store
 -rw-r--r--   1 root           wheel     0 Oct 18 13:36 .localized
 drwxr-xr-x@  3 adamsackfield  admin    96 Sep 26 20:38 ActivityWatch.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Jan 25  2022 Alfred 4.app
@@ -44,7 +44,7 @@ drwxr-xr-x   3 adamsackfield  admin    96 Oct 16 20:59 Unity
 drwxr-xr-x@  3 adamsackfield  admin    96 Sep  6 19:27 Unity Hub.app
 drwxr-xr-x   3 root           wheel    96 Oct 18 13:36 Utilities
 drwxr-xr-x   3 root           wheel    96 Sep 19 15:21 VMware Fusion Tech Preview.app
-drwxr-xr-x@  3 root           wheel    96 Nov 25 12:55 Vectornator.app
+drwxr-xr-x@  3 root           wheel    96 Dec  6 09:01 Vectornator.app
 drwxr-xr-x@  3 adamsackfield  staff    96 Sep 23 17:21 Visual Studio Code.app
 drwxr-xr-x@  3 root           wheel    96 Jul 27 11:21 WinZip.app
 drwxr-xr-x@  3 root           wheel    96 Nov  3 15:01 Xcode.app
