@@ -1,7 +1,7 @@
 total 16
 drwxrwxr-x  51 root           admin  1632 Dec  6 09:01 .
 drwxr-xr-x  20 root           wheel   640 Oct 18 13:36 ..
--rw-r--r--@  1 adamsackfield  admin  6148 Dec  6 09:48 .DS_Store
+-rw-r--r--@  1 adamsackfield  admin  6148 Dec  6 10:10 .DS_Store
 -rw-r--r--   1 root           wheel     0 Oct 18 13:36 .localized
 drwxr-xr-x@  3 adamsackfield  admin    96 Sep 26 20:38 ActivityWatch.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Jan 25  2022 Alfred 4.app
