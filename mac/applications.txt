@@ -1,52 +1,52 @@
 total 16
-drwxrwxr-x  51 root           admin  1632  6 Dec 09:01 .
-drwxr-xr-x  20 root           wheel   640 18 Oct 13:36 ..
--rw-r--r--@  1 adamsackfield  admin  6148  6 Dec 10:10 .DS_Store
--rw-r--r--   1 root           wheel     0 18 Oct 13:36 .localized
-drwxr-xr-x@  3 adamsackfield  admin    96 26 Sep 20:38 ActivityWatch.app
-drwxr-xr-x@  3 adamsackfield  admin    96 25 Jan  2022 Alfred 4.app
-drwxr-xr-x@  3 root           wheel    96 16 Nov 14:19 Authenticator.app
-drwxr-xr-x@  3 adamsackfield  admin    96  5 Oct 00:46 Blender.app
-drwxr-xr-x@  3 root           wheel    96 28 Nov 11:13 Dashlane.app
-drwxr-xr-x@  3 adamsackfield  admin    96 21 Oct 20:42 Discord.app
-drwxr-xr-x@  3 adamsackfield  admin    96 31 Aug 19:31 Docker.app
-drwxr-xr-x@  3 root           wheel    96  1 Dec 01:03 Dropzone 4.app
-drwxr-xr-x@  3 root           wheel    96 26 Oct 08:04 Final Cut Pro.app
-drwxrwxr-x@  3 adamsackfield  admin    96  1 Dec 01:11 Firefox.app
-drwxr-xr-x@  3 adamsackfield  admin    96 30 Oct 10:14 Freedom.app
-drwxrwxr-x@  3 adamsackfield  admin    96 10 Oct 22:54 Google Chrome.app
-drwxr-xr-x@  3 root           wheel    96  1 Dec 00:59 Keynote.app
-drwxr-xr-x@  3 adamsackfield  admin    96  9 Jun 03:58 LICEcap.app
-drwxrwxr-x@  3 root           admin    96  3 Nov 11:23 Logic Pro X.app
-drwxr-xr-x@  3 root           wheel    96  4 Jul 15:27 Microsoft Teams.app
-drwxr-xr-x@  3 adamsackfield  admin    96 23 Mar  2022 Minecraft.app
-drwxr-xr-x   3 adamsackfield  staff    96 31 Dec  1979 MongoDB Compass.app
-drwxr-xr-x@  3 root           wheel    96  1 Dec 01:03 Numbers.app
-drwxr-xr-x@  3 adamsackfield  admin    96 26 Jul 19:25 Obsidian.app
-drwxrwxr-x   4 root           admin   128 29 Sep  2020 OpenVPN
-lrwxr-xr-x   1 root           admin    41  2 Oct 13:43 OpenVPN Connect.app -> /Applications/OpenVPN/OpenVPN Connect.app
-drwxr-xr-x@  4 root           wheel   128 21 Oct 10:17 Overcast.app
-drwxr-xr-x@  3 root           wheel    96  1 Dec 01:06 Pages.app
-drwxr-xr-x@  3 adamsackfield  admin    96  9 Feb  2022 Postgres.app
-drwxr-xr-x@  3 adamsackfield  staff    96  7 Nov 08:37 Postman.app
-drwxr-xr-x@  3 adamsackfield  admin    96  8 Feb  2022 ProtonMail Bridge.app
-drwxr-xr-x@  3 adamsackfield  admin    96 28 Sep 15:32 ProtonVPN.app
-drwxr-xr-x@ 10 root           wheel   320 26 Jun 18:46 Python 3.10
-drwxr-xr-x@  3 adamsackfield  admin    96  1 Aug 12:05 Raindrop.io.app
-drwxr-xr-x@  3 adamsackfield  admin    96 16 Feb  2022 Rectangle.app
-lrwxr-xr-x@  1 root           wheel    54 18 Oct 13:36 Safari.app -> ../System/Cryptexes/App/System/Applications/Safari.app
-drwxr-xr-x@  3 adamsackfield  staff    96  7 Nov 21:30 Slack.app
-drwxr-xr-x@  3 adamsackfield  admin    96 23 Mar  2022 Steam.app
-drwxrwxr-x@  3 adamsackfield  admin    96 27 Sep 10:47 Thunderbird.app
-drwxr-xr-x@  3 root           wheel    96 14 Oct 19:29 Trello.app
-drwxr-xr-x@  3 adamsackfield  admin    96 20 May  2022 UTM.app
-drwxr-xr-x   3 adamsackfield  admin    96 16 Oct 20:59 Unity
-drwxr-xr-x@  3 adamsackfield  admin    96  6 Sep 19:27 Unity Hub.app
-drwxr-xr-x   3 root           wheel    96 18 Oct 13:36 Utilities
-drwxr-xr-x   3 root           wheel    96 19 Sep 15:21 VMware Fusion Tech Preview.app
-drwxr-xr-x@  3 root           wheel    96  6 Dec 09:01 Vectornator.app
-drwxr-xr-x@  3 adamsackfield  staff    96 23 Sep 17:21 Visual Studio Code.app
-drwxr-xr-x@  3 root           wheel    96 27 Jul 11:21 WinZip.app
-drwxr-xr-x@  3 root           wheel    96  3 Nov 15:01 Xcode.app
-drwxr-xr-x@  3 root           wheel    96  1 Dec 00:56 Yubico Authenticator.app
-drwxr-xr-x@  3 adamsackfield  staff    96 17 Nov 09:19 iTerm.app
+drwxrwxr-x  51 root           admin  1632 Dec  7 09:00 .
+drwxr-xr-x  20 root           wheel   640 Oct 18 13:36 ..
+-rw-r--r--@  1 adamsackfield  admin  6148 Dec  6 10:10 .DS_Store
+-rw-r--r--   1 root           wheel     0 Oct 18 13:36 .localized
+drwxr-xr-x@  3 adamsackfield  admin    96 Sep 26 20:38 ActivityWatch.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Jan 25  2022 Alfred 4.app
+drwxr-xr-x@  3 root           wheel    96 Dec  7 08:59 Authenticator.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Oct  5 00:46 Blender.app
+drwxr-xr-x@  3 root           wheel    96 Nov 28 11:13 Dashlane.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Oct 21 20:42 Discord.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Aug 31 19:31 Docker.app
+drwxr-xr-x@  3 root           wheel    96 Dec  1 01:03 Dropzone 4.app
+drwxr-xr-x@  3 root           wheel    96 Oct 26 08:04 Final Cut Pro.app
+drwxrwxr-x@  3 adamsackfield  admin    96 Dec  1 01:11 Firefox.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Oct 30 10:14 Freedom.app
+drwxrwxr-x@  3 adamsackfield  admin    96 Oct 10 22:54 Google Chrome.app
+drwxr-xr-x@  3 root           wheel    96 Dec  1 00:59 Keynote.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Jun  9 03:58 LICEcap.app
+drwxrwxr-x@  3 root           admin    96 Nov  3 11:23 Logic Pro X.app
+drwxr-xr-x@  3 root           wheel    96 Jul  4 15:27 Microsoft Teams.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Mar 23  2022 Minecraft.app
+drwxr-xr-x   3 adamsackfield  staff    96 Dec 31  1979 MongoDB Compass.app
+drwxr-xr-x@  3 root           wheel    96 Dec  1 01:03 Numbers.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Jul 26 19:25 Obsidian.app
+drwxrwxr-x   4 root           admin   128 Sep 29  2020 OpenVPN
+lrwxr-xr-x   1 root           admin    41 Oct  2 13:43 OpenVPN Connect.app -> /Applications/OpenVPN/OpenVPN Connect.app
+drwxr-xr-x@  4 root           wheel   128 Oct 21 10:17 Overcast.app
+drwxr-xr-x@  3 root           wheel    96 Dec  1 01:06 Pages.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Feb  9  2022 Postgres.app
+drwxr-xr-x@  3 adamsackfield  staff    96 Nov  7 08:37 Postman.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Feb  8  2022 ProtonMail Bridge.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Sep 28 15:32 ProtonVPN.app
+drwxr-xr-x@ 10 root           wheel   320 Jun 26 18:46 Python 3.10
+drwxr-xr-x@  3 adamsackfield  admin    96 Aug  1 12:05 Raindrop.io.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Feb 16  2022 Rectangle.app
+lrwxr-xr-x@  1 root           wheel    54 Oct 18 13:36 Safari.app -> ../System/Cryptexes/App/System/Applications/Safari.app
+drwxr-xr-x@  3 adamsackfield  staff    96 Nov  7 21:30 Slack.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Mar 23  2022 Steam.app
+drwxrwxr-x@  3 adamsackfield  admin    96 Sep 27 10:47 Thunderbird.app
+drwxr-xr-x@  3 root           wheel    96 Oct 14 19:29 Trello.app
+drwxr-xr-x@  3 adamsackfield  admin    96 May 20  2022 UTM.app
+drwxr-xr-x   3 adamsackfield  admin    96 Oct 16 20:59 Unity
+drwxr-xr-x@  3 adamsackfield  admin    96 Sep  6 19:27 Unity Hub.app
+drwxr-xr-x   3 root           wheel    96 Oct 18 13:36 Utilities
+drwxr-xr-x   3 root           wheel    96 Sep 19 15:21 VMware Fusion Tech Preview.app
+drwxr-xr-x@  3 root           wheel    96 Dec  7 09:00 Vectornator.app
+drwxr-xr-x@  3 adamsackfield  staff    96 Sep 23 17:21 Visual Studio Code.app
+drwxr-xr-x@  3 root           wheel    96 Jul 27 11:21 WinZip.app
+drwxr-xr-x@  3 root           wheel    96 Nov  3 15:01 Xcode.app
+drwxr-xr-x@  3 root           wheel    96 Dec  1 00:56 Yubico Authenticator.app
+drwxr-xr-x@  3 adamsackfield  staff    96 Nov 17 09:19 iTerm.app
