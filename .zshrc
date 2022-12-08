@@ -121,6 +121,7 @@ alias gp="git push origin "
 alias gc="git commit -m "
 alias gs="git status"
 alias gcm="git checkout main"
+alias gh="~/bin/openGithub.sh"
 
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 

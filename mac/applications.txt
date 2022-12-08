@@ -16,7 +16,7 @@ drwxrwxr-x@  3 adamsackfield  admin    96 Dec  1 01:11 Firefox.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Oct 30 10:14 Freedom.app
 drwxrwxr-x@  3 adamsackfield  admin    96 Oct 10 22:54 Google Chrome.app
 drwxr-xr-x@  3 root           wheel    96 Dec  1 00:59 Keynote.app
-drwxr-xr-x@  3 adamsackfield  admin    96 Jun  9 03:58 LICEcap.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Jun  9  2022 LICEcap.app
 drwxrwxr-x@  3 root           admin    96 Nov  3 11:23 Logic Pro X.app
 drwxr-xr-x@  3 root           wheel    96 Jul  4 15:27 Microsoft Teams.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Mar 23  2022 Minecraft.app
