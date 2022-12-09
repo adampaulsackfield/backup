@@ -57,7 +57,13 @@
 	"Describe block": {
 		"prefix": "desc",
 		"body": ["describe('$1', () => {", "$2", "}"],
-		"description": "Expands to import NAME from 'PLACE'"
+		"description": "Expands to a jest describe block"
+	},
+
+	"It block": {
+		"prefix": "it",
+		"body": ["it('should $1', () => {", "$2", "}"],
+		"description": "Expands to a jest describe block"
 	}
 	// ! JEST END
 }
