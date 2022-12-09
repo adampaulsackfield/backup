@@ -51,6 +51,22 @@
 			"export default $TM_FILENAME_BASE"
 		],
 		"description": "Builds a react functional arrow component, named the same as the file"
-	}
+	},
 	// ! REACT END
+
+	// ! ARROW FUNCTION START
+	"Arrow Function": {
+		"prefix": "aff",
+		"body": ["const $1 = ($2) => {", "  return $3", "}"],
+		"description": "Expands into an arrow function."
+	},
+	// ! ARROW FUNCTION END
+
+	// ! IMPORT FROM START
+	"Import From": {
+		"prefix": "imp",
+		"body": "import $1 from '$2'",
+		"description": "Expands to import NAME from 'PLACE'"
+	}
+	// ! IMPORT FROM END
 }
