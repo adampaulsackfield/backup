@@ -14,23 +14,23 @@
 	// }
 
 	// ! ARROW FUNCTION SYMBOL START
-	"Arrow Function Symbol No Params": {
+	"Arrow function symbol no params": {
 		"prefix": "af",
 		"body": "() => $0",
 		"description": "Expands into an arrow function, without params."
 	},
 
-	"Arrow Function Symbol Params": {
+	"Arrow function symbol params": {
 		"prefix": "afa",
 		"body": "($1) => $0",
 		"description": "Expands into an arrow function, with params."
 	},
-	"Arrow Function Symbol Return No Params": {
+	"Arrow function symbol return no params": {
 		"prefix": "afr",
 		"body": ["() => {", "", "return $0", "", "}"],
 		"description": "Expands into a multi line arrow function with return"
 	},
-	"Arrow Function Symbol Return Params": {
+	"Arrow function symbol return params": {
 		"prefix": "afar",
 		"body": ["($1) => {", "return $0", "}"],
 		"description": "Expands into a multi line arrow function with return and params"
@@ -38,7 +38,7 @@
 	// ! ARROW FUNCTIONS SYMBOL END
 
 	// ! ARROW FUNCTION START
-	"Arrow Function": {
+	"Arrow function": {
 		"prefix": "aff",
 		"body": ["const $1 = ($2) => {", "  return $3", "}"],
 		"description": "Expands into an arrow function."
@@ -46,10 +46,18 @@
 	// ! ARROW FUNCTION END
 
 	// ! IMPORT FROM START
-	"Import From": {
+	"Import from": {
+		"prefix": "imp",
+		"body": "import $1 from '$2'",
+		"description": "Expands to import NAME from 'PLACE'"
+	},
+	// ! IMPORT FROM END
+
+	// ! JEST START
+	"Describe block": {
 		"prefix": "imp",
 		"body": "import $1 from '$2'",
 		"description": "Expands to import NAME from 'PLACE'"
 	}
-	// ! IMPORT FROM END
+	// ! JEST END
 }
