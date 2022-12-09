@@ -55,8 +55,8 @@
 
 	// ! JEST START
 	"Describe block": {
-		"prefix": "imp",
-		"body": "import $1 from '$2'",
+		"prefix": "desc",
+		"body": ["",]
 		"description": "Expands to import NAME from 'PLACE'"
 	}
 	// ! JEST END
