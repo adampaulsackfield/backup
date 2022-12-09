@@ -56,7 +56,7 @@
 	// ! JEST START
 	"Describe block": {
 		"prefix": "desc",
-		"body": ["",]
+		"body": ["describe('$1')"],
 		"description": "Expands to import NAME from 'PLACE'"
 	}
 	// ! JEST END
