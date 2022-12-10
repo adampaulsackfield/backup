@@ -43,5 +43,6 @@
 	"explorer.compactFolders": false,
 	"vscode_custom_css.imports": [
 		"file:///Users/adamsackfield/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css"
-	]
+	],
+	"typescript.updateImportsOnFileMove.enabled": "always"
 }

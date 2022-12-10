@@ -50,6 +50,26 @@
 		"prefix": "imp",
 		"body": "import $1 from '$2'",
 		"description": "Expands to import NAME from 'PLACE'"
-	}
+	},
 	// ! IMPORT FROM END
+
+	"React Arrow Function Const Export": {
+		"prefix": "rafce",
+		"body": [
+			"import React, { ReactElement } from 'react'",
+			"// Components",
+			"",
+			"// Styles",
+			"import styles from './$TM_FILENAME_BASE.module.scss'",
+			"",
+			"const $TM_FILENAME_BASE: React.FC = (): ReactElement => {",
+			"",
+			"  return <div>$TM_FILENAME_BASE</div>;",
+			"",
+			"};",
+			"",
+			"export default $TM_FILENAME_BASE"
+		],
+		"description": "Builds a react typescript functional arrow component, named the same as the file"
+	}
 }
