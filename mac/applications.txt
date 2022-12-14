@@ -1,7 +1,7 @@
-total 16
-drwxrwxr-x  51 root           admin  1632 Dec 12 12:56 .
+total 24
+drwxrwxr-x  52 root           admin  1664 Dec 13 12:11 .
 drwxr-xr-x  20 root           wheel   640 Oct 18 13:36 ..
--rw-r--r--@  1 adamsackfield  admin  6148 Dec  8 16:24 .DS_Store
+-rw-r--r--@  1 adamsackfield  admin  8196 Dec 13 12:26 .DS_Store
 -rw-r--r--   1 root           wheel     0 Oct 18 13:36 .localized
 drwxr-xr-x@  3 adamsackfield  admin    96 Sep 26 20:38 ActivityWatch.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Jan 25  2022 Alfred 4.app
@@ -21,6 +21,7 @@ drwxrwxr-x@  3 root           admin    96 Nov  3 11:23 Logic Pro X.app
 drwxr-xr-x@  3 root           wheel    96 Jul  4 15:27 Microsoft Teams.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Mar 23  2022 Minecraft.app
 drwxr-xr-x   3 adamsackfield  staff    96 Dec 31  1979 MongoDB Compass.app
+drwxr-xr-x@  3 adamsackfield  admin    96 Sep  3 04:57 MySQLWorkbench.app
 drwxr-xr-x@  3 root           wheel    96 Dec  1 01:03 Numbers.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Jul 26 19:25 Obsidian.app
 drwxrwxr-x   4 root           admin   128 Sep 29  2020 OpenVPN

@@ -71,5 +71,19 @@
 			"export default $TM_FILENAME_BASE"
 		],
 		"description": "Builds a react typescript functional arrow component, named the same as the file"
+	},
+
+	// ! JEST START
+	"Describe block": {
+		"prefix": "jde",
+		"body": ["describe('$1', () => {", "$2", "})"],
+		"description": "Expands to a jest describe block"
+	},
+
+	"It block": {
+		"prefix": "jit",
+		"body": ["it('should $1', () => {", "$2", "})"],
+		"description": "Expands to a jest describe block"
 	}
+	// ! JEST END
 }
