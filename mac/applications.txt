@@ -1,23 +1,23 @@
 total 24
-drwxrwxr-x  52 root           admin  1664 Dec 13 12:11 .
+drwxrwxr-x  52 root           admin  1664 Dec 15 03:07 .
 drwxr-xr-x  20 root           wheel   640 Oct 18 13:36 ..
 -rw-r--r--@  1 adamsackfield  admin  8196 Dec 13 12:26 .DS_Store
 -rw-r--r--   1 root           wheel     0 Oct 18 13:36 .localized
 drwxr-xr-x@  3 adamsackfield  admin    96 Sep 26 20:38 ActivityWatch.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Jan 25  2022 Alfred 4.app
-drwxr-xr-x@  3 root           wheel    96 Dec  9 08:58 Authenticator.app
+drwxr-xr-x@  3 root           wheel    96 Dec 14 13:00 Authenticator.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Oct  5 00:46 Blender.app
 drwxr-xr-x@  3 root           wheel    96 Dec 12 12:56 Dashlane.app
-drwxr-xr-x@  3 adamsackfield  admin    96 Oct 21 20:42 Discord.app
+drwxr-xr-x@  3 adamsackfield  staff    96 Dec  9 16:13 Discord.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Aug 31 19:31 Docker.app
 drwxr-xr-x@  3 root           wheel    96 Dec  1 01:03 Dropzone 4.app
 drwxr-xr-x@  3 root           wheel    96 Oct 26 08:04 Final Cut Pro.app
-drwxrwxr-x@  3 adamsackfield  admin    96 Dec  1 01:11 Firefox.app
+drwxrwxr-x@  3 adamsackfield  admin    96 Dec 14 16:47 Firefox.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Oct 30 10:14 Freedom.app
 drwxrwxr-x@  3 adamsackfield  admin    96 Oct 10 22:54 Google Chrome.app
 drwxr-xr-x@  3 root           wheel    96 Dec  1 00:59 Keynote.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Jun  9  2022 LICEcap.app
-drwxrwxr-x@  3 root           admin    96 Nov  3 11:23 Logic Pro X.app
+drwxrwxr-x@  3 root           admin    96 Dec 15 03:07 Logic Pro X.app
 drwxr-xr-x@  3 root           wheel    96 Jul  4 15:27 Microsoft Teams.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Mar 23  2022 Minecraft.app
 drwxr-xr-x   3 adamsackfield  staff    96 Dec 31  1979 MongoDB Compass.app
@@ -48,6 +48,6 @@ drwxr-xr-x   3 root           wheel    96 Sep 19 15:21 VMware Fusion Tech Previe
 drwxr-xr-x@  3 root           wheel    96 Dec  7 09:00 Vectornator.app
 drwxr-xr-x@  3 adamsackfield  staff    96 Nov 29 12:19 Visual Studio Code.app
 drwxr-xr-x@  3 root           wheel    96 Jul 27 11:21 WinZip.app
-drwxr-xr-x@  3 root           wheel    96 Nov  3 15:01 Xcode.app
+drwxr-xr-x@  3 root           wheel    96 Dec 14 17:39 Xcode.app
 drwxr-xr-x@  3 root           wheel    96 Dec  1 00:56 Yubico Authenticator.app
 drwxr-xr-x@  3 adamsackfield  staff    96 Nov 17 09:19 iTerm.app
