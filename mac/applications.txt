@@ -1,5 +1,5 @@
 total 24
-drwxrwxr-x  52 root           admin  1664 Dec 15 03:07 .
+drwxrwxr-x  52 root           admin  1664 Dec 16 09:02 .
 drwxr-xr-x  20 root           wheel   640 Oct 18 13:36 ..
 -rw-r--r--@  1 adamsackfield  admin  8196 Dec 13 12:26 .DS_Store
 -rw-r--r--   1 root           wheel     0 Oct 18 13:36 .localized
@@ -10,7 +10,7 @@ drwxr-xr-x@  3 adamsackfield  admin    96 Oct  5 00:46 Blender.app
 drwxr-xr-x@  3 root           wheel    96 Dec 12 12:56 Dashlane.app
 drwxr-xr-x@  3 adamsackfield  staff    96 Dec  9 16:13 Discord.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Aug 31 19:31 Docker.app
-drwxr-xr-x@  3 root           wheel    96 Dec  1 01:03 Dropzone 4.app
+drwxr-xr-x@  3 root           wheel    96 Dec 16 09:03 Dropzone 4.app
 drwxr-xr-x@  3 root           wheel    96 Oct 26 08:04 Final Cut Pro.app
 drwxrwxr-x@  3 adamsackfield  admin    96 Dec 14 16:47 Firefox.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Oct 30 10:14 Freedom.app
@@ -39,7 +39,7 @@ lrwxr-xr-x@  1 root           wheel    54 Oct 18 13:36 Safari.app -> ../System/C
 drwxr-xr-x@  3 adamsackfield  staff    96 Nov  7 21:30 Slack.app
 drwxr-xr-x@  3 adamsackfield  admin    96 Mar 23  2022 Steam.app
 drwxrwxr-x@  3 adamsackfield  admin    96 Sep 27 10:47 Thunderbird.app
-drwxr-xr-x@  3 root           wheel    96 Oct 14 19:29 Trello.app
+drwxr-xr-x@  3 root           wheel    96 Dec 16 09:02 Trello.app
 drwxr-xr-x@  3 adamsackfield  admin    96 May 20  2022 UTM.app
 drwxr-xr-x   3 adamsackfield  admin    96 Oct 16 20:59 Unity
 drwxr-xr-x@  3 adamsackfield  admin    96 Sep  6 19:27 Unity Hub.app

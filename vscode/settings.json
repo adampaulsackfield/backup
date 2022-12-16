@@ -38,7 +38,14 @@
 	"editor.inlineSuggest.enabled": true,
 	"window.newWindowDimensions": "inherit",
 	"screencastMode.onlyKeyboardShortcuts": true,
-	"cSpell.userWords": ["BODMAS", "initalState", "Sackfield", "subber"],
+	"cSpell.userWords": [
+		"BODMAS",
+		"healthcheck",
+		"initalState",
+		"Sackfield",
+		"subber",
+		"todos"
+	],
 	"editor.lineNumbers": "relative",
 	"explorer.compactFolders": false,
 	"vscode_custom_css.imports": [
